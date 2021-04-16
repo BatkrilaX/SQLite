@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Пылесосы</string>
+    <string name="Введите_данные_пылесоса">Введите данные пылесоса</string>
+    <string name="Загрузка_данных">Загрузка данных…</string>
+    <string name="Выход">Выход</string>
+    <string name="Большой_шрифт">Большой шрифт</string>
+</resources>
